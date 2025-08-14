@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific configuration
+.idea/
+.vscode/
+
+# Large data files
+# Do NOT commit your dataset to Git.
+# Add the specific name of your data folder or files here.
+*.csv
+data/
+
+# Log files
+*.log
