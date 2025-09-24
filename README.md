@@ -37,7 +37,7 @@ It utilizes a machine learning-based Network Intrusion Detection System (NIDS) t
 
 * **Intrusion Detection:** Employs a finely-tuned `RandomForestClassifier` to identify and classify network threats with **96.42% accuracy**.
 * **Dynamic Encryption:** A modular system that programmatically switches between different encryption protocols based on NIDS output.
-* [cite_start]**Clean Architecture:** Core logic is encapsulated in the `cryptoagile_nids.py` script, while `main.ipynb` provides a clean demonstration. 
+* **Clean Architecture:** Core logic is encapsulated in the `cryptoagile_nids.py` script, while `main.ipynb` provides a clean demonstration. 
 
 ## Repository Structure
 
