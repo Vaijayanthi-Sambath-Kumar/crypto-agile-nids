@@ -60,7 +60,7 @@ It utilizes a machine learning-based Network Intrusion Detection System (NIDS) t
 * **Language:** Python
 * **Machine Learning:** Scikit-learn
 * **Data Manipulation:** Pandas, NumPy
-* [cite_start]**Cryptography:** cryptography
+* **Cryptography:** cryptography
 
 ## Dataset
 
